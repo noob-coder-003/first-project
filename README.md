@@ -1,3 +1,3 @@
 # first-project
 nothing special, im on learning period.
- Author:noob-coder
+ Author:noob-coder-7230
